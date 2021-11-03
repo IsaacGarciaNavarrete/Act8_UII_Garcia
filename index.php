@@ -14,9 +14,9 @@
 			</div>
 			<nav>
 				<ul>
-					<li><a href="inicio.html">Inicio</a></li>
-					<li><a href="empleado.html">Empleado</a></li>
-					<li><a href="Usuario.html">Usuario</a></li>
+					<li><a href="inicio.php">Inicio</a></li>
+					<li><a href="empleado.php">Empleado</a></li>
+					<li><a href="Usuario.php">Usuario</a></li>
 					<li><a href="Ventas.html">Ventas</a></li>
 				</ul>
 			</nav>
