@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <meta charset="UTF-8">
+    <title>13 Isaac Garcia Navarrete</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<header>
+		<div class="wrapp">
+			<div class="logo">
+				<a href="#"><img src="https://mir-s3-cdn-cf.behance.net/projects/404/144b73108150787.Y3JvcCw4NDAsNjU3LDI3OCwyNzA.jpg" alt="IZZI"></a>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="inicio.php">Inicio</a></li>
+					<li><a href="empleado.php">Empleado</a></li>
+					<li><a href="Usuario.php">Usuario</a></li>
+					<li><a href="Ventas.php">Ventas</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
 <link rel="stylesheet" href="style.css">
 <h1 class="Titulo">Formulario de Registro</h1>
 
